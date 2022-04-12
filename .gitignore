@@ -1,0 +1,6 @@
+# Indicar qual arquivo não será upado no github
+
+composer.lock
+/vendor/
+
+# Source Control -> Initialize Repozitory OU git init no terminal
